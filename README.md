@@ -1,2 +1,18 @@
-# GO FITIS WEARABLE TECHNOLOGY MARKETING CAMPAIGN
-This repository contains a detailed strategic report on GoFit Initiative Project Management Plan, a creative solution designed to meet fitness and health goals via a simplified and technologically advanced platform. It covers cost management, risk management, quality assurance, and resource allocation to achieve key business goals within a €175,000 budget.
+## 📌 GoFit Marketing Strategy Project
+
+This project focuses on planning and managing a business/marketing initiative using structured project management and analytical approaches.
+
+## 🔍 Key Areas Covered
+- Project scope and planning  
+- Cost and budget management  
+- Resource and risk management  
+- Quality management and process control  
+
+## 🎯 Objective
+To demonstrate business analysis, planning, and structured project execution aligned with real-world scenarios.
+
+## 🛠️ Skills Demonstrated
+- Business Analysis  
+- Project Planning  
+- Documentation  
+- Data-driven decision making  
